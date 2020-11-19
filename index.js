@@ -10,7 +10,7 @@ mongoose.connect('mongodb+srv://hwany314:8826@cluster0.nnkyp.mongodb.net/<dbname
 
 
 app.get('/', (req, res) => {
-    res.send('Hello World! 하이하이')
+    res.send('Hello World! 하이하이 ㅎㅇㅎㅇ')
 })
 
 app.listen(port, () => {
